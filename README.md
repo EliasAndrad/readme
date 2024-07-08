@@ -1,4 +1,12 @@
-<h2 align="left">Hello 👋! My name is Elias Andrade, graduated in Systems Analysis and Development and studying Information Systems</h2>
+<h2 align="left">👋Hello, I'm Elias Andrade, 
+ <br>
+A 22-year-old young man passionate about technology.👨🏽‍💻
+<br>
+<br>
+
+I love challenges that allow me to expand my skills and learn something new every day. I am always looking for opportunities to apply and improve my knowledge in technology.
+
+I consider myself an eternal learner, always willing to collaborate and find innovative solutions in the area of ​​software development..</h2>
 
 ###
 
