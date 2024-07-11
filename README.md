@@ -1,12 +1,11 @@
-<h2 align="left">👋Hello, I'm Elias Andrade, 
- <br>
-A 22-year-old young man passionate about technology.👨🏽‍💻
+<h2 align="left">👋Olá, sou Elias Andrade,
+um jovem de 22 anos apaixonado por tecnologia.👨🏽‍💻
 <br>
 <br>
-
-I love challenges that allow me to expand my skills and learn something new every day. I am always looking for opportunities to apply and improve my knowledge in technology.
-
-I consider myself an eternal learner, always willing to collaborate and find innovative solutions in the area of ​​software development..</h2>
+Adoro desafios que me permitam expandir minhas habilidades e aprender algo novo todos os dias. Estou sempre buscando oportunidades para aplicar e aprimorar meus conhecimentos em tecnologia.
+<br>
+<br>
+Considero-me um eterno aprendiz, sempre disposto a colaborar e encontrar soluções inovadoras na área de desenvolvimento de software..</h2>
 
 ###
 
